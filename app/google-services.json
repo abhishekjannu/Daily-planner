@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749580685731",
+    "firebase_url": "https://plannerdp-a9788.firebaseio.com",
+    "project_id": "plannerdp-a9788",
+    "storage_bucket": "plannerdp-a9788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749580685731:android:a09a16d1af2307a9770a16",
+        "android_client_info": {
+          "package_name": "com.cegep.dailyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749580685731-ukp7v9pghfn78evh0vvmc860q0toni6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbPwvIXgUtO2hF2nC1gJwGXrYKSWkx9BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749580685731-ukp7v9pghfn78evh0vvmc860q0toni6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
